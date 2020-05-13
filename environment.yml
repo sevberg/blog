@@ -2,7 +2,7 @@ name: blog
 channels:
   - conda-forge
 dependencies:
-  - python=3
+  - python=3.8
   - pelican
   - autopep8
   - pylint
