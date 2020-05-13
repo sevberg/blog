@@ -1,13 +1,17 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-
+from os.path import join, dirname
 AUTHOR = 'D. Severin Ryberg'
 SITENAME = 'sevberg'
 SITEURL = ''
 
 PATH = 'content'
-THEME = "blue-penguin"
+
+THEME = join(
+    dirname(__file__),
+    "theme")
+
 TIMEZONE = 'Europe/Berlin'
 
 DEFAULT_LANG = 'en'
