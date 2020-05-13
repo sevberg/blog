@@ -1,5 +1,5 @@
 title: About
-date: <today's date>
+date: 13 May, 2020
 <p style = "font-family:georgia,garamond,serif;font-size:24px;line-height:1.4">
 <q>
 "Have no fear, children, this is a very sciency bucket" - A very important scientist
