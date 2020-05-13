@@ -1,11 +1,9 @@
 astroid==2.4.0
 attrs==19.3.0
-autopep8==1.4.4
 blinker==1.4
 certifi==2020.4.5.1
 docutils==0.16
 feedgenerator==1.9.1
-ghp-import==0.5.5
 importlib-metadata==1.6.0
 isort==4.3.21
 Jinja2==2.11.2
@@ -20,9 +18,7 @@ pluggy==0.13.1
 py==1.8.1
 pycodestyle==2.5.0
 Pygments==2.6.1
-pylint==2.5.0
 pyparsing==2.4.7
-pytest==5.4.1
 python-dateutil==2.8.1
 pytz==2020.1
 six==1.14.0
