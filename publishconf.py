@@ -11,9 +11,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-# SITEURL = 'http://sevberg.dev'
-SITEURL = "sevberg-blog.netlify.app"
-# THEME = 'simplex'
+SITEURL = 'sevberg.dev'
 # SITEURL = 'http://localhost:8000'
 RELATIVE_URLS = True
 
