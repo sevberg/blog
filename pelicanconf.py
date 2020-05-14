@@ -11,6 +11,9 @@ PATH = 'content'
 THEME = join(
     dirname(__file__),
     "theme")
+HOME_COVER = 'images/20180404_224753_export.jpg'
+# ARTICLE_COVER = 'images/20180404_224753_export.jpg'
+COLOR_SCHEME_CSS = 'monokai.css'
 
 TIMEZONE = 'Europe/Berlin'
 
